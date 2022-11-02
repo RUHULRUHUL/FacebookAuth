@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305059052466",
+    "project_id": "firstproject-48021",
+    "storage_bucket": "firstproject-48021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305059052466:android:183c93f328ace8e9d542ab",
+        "android_client_info": {
+          "package_name": "com.ruhul.facebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305059052466-rnupjj9mle02o6m5csds9kgjqeeb5s7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoskdx2AAUJdsnYIbrUOZ_DxAXeCcdiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305059052466-rnupjj9mle02o6m5csds9kgjqeeb5s7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
